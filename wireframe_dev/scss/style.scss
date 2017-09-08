@@ -1,0 +1,37 @@
+/*!
+Theme Name:     Wireframe Theme
+Version:        0.1.0
+Author:         MixaTheme, Tada Burke
+Theme URI:      https://github.com/mixatheme/wireframe-theme/
+Author URI:     https://mixatheme.com/
+Text Domain:    wireframe-theme
+License:        GPL-2.0+
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+Description:    Wireframe Theme is an OOP WordPress parent theme boilerplate. Wireframe Theme enables WordPress Developers to rapidly wire GPL and WordPress Coding Standards compliant themes for professional client projects or for selling premium themes in any marketplace. Wireframe Theme is part of the Wireframe Suite for WordPress by MixaTheme.
+Tags:           grid-layout, one-column, two-columns, right-sidebar, accessibility-ready, buddypress, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, flexible-header, footer-widgets, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, education, entertainment, food-and-drink, holiday, news, photography, portfolio
+
+Copyright (C) 2016 MixaTheme. All rights reserved.
+
+This software is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this software. If not, see <http://www.gnu.org/licenses/>.
+*/
+
+// These SCSS files should be compiled for all WordPress parent themes.
+@import "wp/vars";
+@import "wp/mixins";
+@import "wp/modules/fouc";
+@import "wp/modules/accessibility";
+@import "wp/modules/alignments";
+@import "wp/modules/clearings";
+@import "wp/media/media";
+@import "wp/media/captions";
+@import "wp/media/galleries";
+@import "wp/content/content";
+@import "wp/print/print";
+@import "wp/extend/infinite-scroll";
+@import "wp/breakpoints/breakpoints";

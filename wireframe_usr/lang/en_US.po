@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1.0 Wireframe_Theme\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-05-18 21:58-0500\n"
+"PO-Revision-Date: 2017-05-18 21:59-0500\n"
+"Last-Translator: MixaTheme\n"
+"Language-Team: MixaTheme\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_c;"
+"_nc:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:41
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: 404.php:49
+msgid ""
+"It looks like nothing was found at this location. Maybe try a new search?"
+msgstr ""
+
+#: comments.php:48
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57 comments.php:78
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:60 comments.php:81
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:61 comments.php:82
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:95
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:37
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:38
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:43
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: wireframe_usr/tpl/content-none.php:32
+msgid "Nothing Found"
+msgstr ""
+
+#: wireframe_usr/tpl/content-none.php:38
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: wireframe_usr/tpl/content-none.php:42
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: wireframe_usr/tpl/content-none.php:47
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: wireframe_usr/tpl/content-page.php:47
+#: wireframe_usr/tpl/content.php:62
+msgid "Pages:"
+msgstr ""
+
+#: wireframe_usr/tpl/content-page.php:60
+#: wireframe_dev/wireframe/functions/functions-template-tags.php:203
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: wireframe_usr/tpl/content.php:57
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:262
+msgid "Eenie"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:263
+msgid "Meenie"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:264
+msgid "Mynee"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:265
+msgid "Mo"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:267
+msgid "Example Control"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:268
+msgid ""
+"Just an example custom control. To modify $controls, see the Customizer "
+"section in your functions.php file."
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:277
+msgid "Link Color"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:278
+#: wireframe_dev/wireframe/config/config-customizer.php:288
+msgid "Descriptions goes here..."
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:287
+msgid "Main Text Color"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:318
+msgid "Example Panel"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:319
+msgid ""
+"Just an example of a custom panel. To modify $panels, see the Customizer "
+"section in your functions.php file."
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:339
+msgid "Example Section"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-customizer.php:340
+msgid ""
+"Just an example of a custom section. To modify $sections, see the Customizer "
+"section in your functions.php file."
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-features.php:282
+msgid "Primary Menu"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-features.php:283
+msgid "Secondary Menu"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-features.php:284
+msgid "Social Links Menu"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-widgets.php:121
+msgid "Primary"
+msgstr ""
+
+#: wireframe_dev/wireframe/config/config-widgets.php:123
+msgid "Add important widgets here."
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-compat.php:43
+#, php-format
+msgid ""
+"%1$s requires at least WordPress %2$s. You are running WordPress %3$s. "
+"Please upgrade WordPress and re-activate %1$s."
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-compat.php:44
+#: wireframe_dev/wireframe/functions/functions-compat.php:102
+#, php-format
+msgid "<div class=\"error\"><p>%s</p></div>"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-compat.php:101
+#: wireframe_dev/wireframe/functions/functions-compat.php:116
+#: wireframe_dev/wireframe/functions/functions-compat.php:134
+#, php-format
+msgid ""
+"%1$s requires at least WordPress %2$s. You are running WordPress %3$s. "
+"Please upgrade WordPress and try again."
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-extras.php:114
+msgid "Read More"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-template-tags.php:155
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-template-tags.php:160
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-template-tags.php:181
+#: wireframe_dev/wireframe/functions/functions-template-tags.php:187
+msgid ", "
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-template-tags.php:183
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-template-tags.php:189
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-template-tags.php:196
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:49
+#: wireframe_dev/wireframe/functions/functions-views.php:81
+#: wireframe_dev/wireframe/functions/functions-views.php:114
+msgid "Quickstart"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:50
+#: wireframe_dev/wireframe/functions/functions-views.php:82
+#: wireframe_dev/wireframe/functions/functions-views.php:115
+msgid "FAQ"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:51
+#: wireframe_dev/wireframe/functions/functions-views.php:83
+#: wireframe_dev/wireframe/functions/functions-views.php:116
+msgid "Support"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:147
+msgid "Version"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:166
+msgid ""
+"Wireframe Theme is an OOP WordPress parent theme boilerplate. Wireframe "
+"Theme enables WordPress Developers to rapidly wire GPL and WordPress Coding "
+"Standards compliant themes for professional client projects or for selling "
+"premium themes in any marketplace. Wireframe Theme is part of the Wireframe "
+"Suite for WordPress by MixaTheme."
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:194
+msgid "Quickstart Heading"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:195
+msgid "Quickstart content can go here..."
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:222
+msgid "FAQ Heading"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:223
+msgid "Frequently Asked Questions content can go here..."
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:250
+msgid "Support Heading"
+msgstr ""
+
+#: wireframe_dev/wireframe/functions/functions-views.php:251
+msgid "Support content can go here..."
+msgstr ""

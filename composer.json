@@ -1,0 +1,55 @@
+{
+    "name": "Wireframe Theme",
+    "description": "Wireframe Theme is an OOP WordPress parent theme boilerplate. Wireframe Theme enables WordPress Developers to rapidly wire GPL and WordPress Coding Standards compliant themes for professional client projects or for selling premium themes in any marketplace. Wireframe Theme is part of the Wireframe Suite for WordPress by MixaTheme.",
+    "type": "wordpress-theme",
+    "license": "GPL-2.0+",
+    "keywords": [
+        "wordpress",
+        "oop",
+        "object-oriented",
+        "wireframe",
+        "bootstrap",
+        "starter",
+        "boilerplate",
+        "responsive",
+        "mobile",
+        "theme",
+        "gpl",
+        "mixatheme"
+    ],
+    "homepage": "https://github.com/mixatheme/Wireframe",
+    "authors": [
+        {
+            "name": "Tada Burke",
+            "email": "tadaburke@users.noreply.github.com",
+            "homepage": "https://twitter.com/tadaburke",
+            "role": "Developer"
+        },
+        {
+            "name": "MixaTheme",
+            "email": "mixatheme@users.noreply.github.com",
+            "homepage": "https://mixatheme.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Neurobotic",
+            "email": "neurobotic@users.noreply.github.com",
+            "homepage": "https://neurobotic.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/mixatheme/wireframe-theme/issues",
+        "source": "https://github.com/mixatheme/wireframe-theme",
+        "docs": "https://github.com/mixatheme/wireframe-theme/wiki"
+    },
+    "config": {
+        "vendor-dir": "wireframe_dev/vendor",
+        "archive-format": "zip"
+    },
+    "autoload": {
+        "psr-0": {
+            "MixaTheme\\Wireframe\\Theme\\": "wireframe_dev/wireframe"
+        }
+    }
+}

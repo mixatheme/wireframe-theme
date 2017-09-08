@@ -1,0 +1,70 @@
+/**!
+ * Wirefarme Theme stylesheet for Admin screens.
+ *
+ * SASS 3.4.22
+ *
+ * @package   Wireframe_Theme
+ * @author    MixaTheme, Tada Burke
+ * @version   0.1.0 Wireframe_Theme
+ * @copyright 2016 MixaTheme
+ * @license   GPL-2.0+
+ * @see       https://mixatheme.com
+ * @see       https://github.com/mixatheme/Wireframe
+ *
+ * This software is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this software. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/**
+ * WordPress Version Badge replacement.
+ *
+ * @since  0.1.0 Wireframe
+ * @since  0.1.0 Wireframe_Theme
+ * @author Automattic, MixaTheme
+*/
+
+// The PNG badge.
+.wireframe-theme-badge {
+	background: #33CCCC url(../img/wireframe-theme-badge-white.png?ver=20170510) no-repeat;
+	background-position: center 25px;
+	-webkit-background-size: 80px 80px;
+	background-size: 80px 80px;
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+	font-weight: 600;
+	margin: 5px 0 0;
+	padding-top: 120px;
+	height: 40px;
+	display: inline-block;
+	width: 140px;
+	text-rendering: optimizeLegibility;
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+	box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+// The SVG badge.
+.svg .wireframe-theme-badge {
+	background-image: url(../img/wireframe-theme-badge-white.svg?ver=20170510);
+}
+
+// Badge positioning.
+.about-wrap .wireframe-theme-badge {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+// Badge positioning on mobile and small screens.
+@media only screen and (max-width: 500px) {
+	.about-wrap .wireframe-theme-badge {
+		position: relative;
+		margin-bottom: 1.5em;
+		width: 100%;
+	}
+}
